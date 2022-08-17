@@ -11,14 +11,15 @@
 
 - 📫 How to reach me **realalpha.ua@gmail.com**
 
-- 📄 Know about my experiences [4 years in java development](4 years in java development)
+- 📄 Know about my experiences 4 years in java development
 
 - ⚡ Fun fact **Always curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_realalpha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_realalpha_" height="30" width="40" /></a>
-<a href="https://discord.gg/_RealAlpha_#1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_RealAlpha_#1910" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCO5Rfqc5pTHx3nY7J77cmPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_realalpha_" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/2WT3DWFMAC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2WT3DWFMAC" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📝 I regularly write articles on [https://itsme.to/tag/mshade/](https://itsme.to/tag/mshade/)
+- 📝 I regularly write articles [here](https://itsme.to/tag/mshade/)
 
 - 💬 Ask me about **Java**
 

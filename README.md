@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">A passionate Java developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [MShade](https://github.com/MShadeDev)
+- 🔭 I’m currently working on [MShade](https://github.com/MSh4de)
 
 - 🌱 I’m currently learning **Kotlin**
 

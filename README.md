@@ -8,23 +8,38 @@
 </div>
 
 ```mermaid
-%%{init: { 'theme': 'dark' } }%%
+%%{init: { 
+  'theme': 'dark', 
+  'themeVariables': { 
+    'git0': '#81A1C1', 
+    'git1': '#B48EAD', 
+    'git2': '#A3BE8C', 
+    'commitLabelColor': '#D8DEE9',
+    'commitLabelBackground': 'transparent',
+    'tagLabelBackground': '#4C566A',
+    'tagLabelColor': '#ECEFF4',
+    'tagLabelBorder': '#4C566A'
+  } 
+} }%%
 gitGraph
-    commit id: "Core Engine: Java" tag: "8+ Years"
-    commit id: "Distributed Systems"
-    branch legacy_projects
-    checkout legacy_projects
+    commit id: "JAVA" tag: "8+ Years"
+    commit id: "System Design"
+    
+    branch legacy
+    checkout legacy
     commit id: "MShade & Blog"
+    
     checkout main
-    commit id: "Data: Postgres & NoSQL"
-    commit id: "Messaging: Kafka/RMQ"
-    merge legacy_projects id: "Archiving"
-    commit id: "Infra: Docker & Cloud" tag: "v2.0.0"
-    branch active_focus
-    checkout active_focus
-    commit id: "Kotlin Architecture"
+    commit id: "SQL, NoSQL"
+    commit id: "MQTT"
+    commit id: "Docker"
+    commit id: "Kotlin"
+    merge legacy
+    
+    branch active
+    checkout active
     commit id: "LevelyStudio"
-    commit id: "Freelance" tag: "AVAILABLE"
+    commit tag: "What's next ?"
 ```
 
 <div align="center">
